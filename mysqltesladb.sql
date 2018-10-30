@@ -17,7 +17,7 @@ CREATE TABLE tesla_stock (
     high_price DOUBLE,
     low_price DOUBLE,
     volume DOUBLE,
-    volume_adj DOUBLE,
+    adj_close DOUBLE,
     Primary Key (id)
 );
 
