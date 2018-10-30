@@ -10,10 +10,15 @@ CREATE TABLE elon (
 );
 
 CREATE TABLE tesla_stock (
-    real_date DATE,
+	id INT AUTO_INCREMENT NOT NULL,
+	real_date DATE,
     closing_price DOUBLE,
-    volumne DOUBLE,
-    Primary Key (real_date)
+    open_price DOUBLE,
+    high_price DOUBLE,
+    low_price DOUBLE,
+    volume DOUBLE,
+    volume_adj DOUBLE,
+    Primary Key (id)
 );
 
 CREATE TABLE spacex (
