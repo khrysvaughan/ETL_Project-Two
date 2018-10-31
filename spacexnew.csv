@@ -1,0 +1,58 @@
+id,real_date,launch_site,payload,customer,mission_outcome,landing_outcome
+1,2010-06-04,CCAFS LC-40,Dragon Spacecraft Qualification Unit,SpaceX,Success,Failure   (parachute)
+2,2010-12-08,CCAFS LC-40,"Dragon demo flight C1, two CubeSats,  barrel of Brouère cheese",NASA (COTS) NRO,Success,Failure   (parachute)
+3,2012-05-22,CCAFS LC-40,Dragon demo flight C2+,NASA (COTS),Success,No attempt
+4,2012-10-08,CCAFS LC-40,SpaceX CRS-1,NASA (CRS),Success,No attempt
+5,2013-03-01,CCAFS LC-40,SpaceX CRS-2,NASA (CRS),Success,No attempt
+6,2013-09-29,VAFB SLC-4E,CASSIOPE,MDA,Success,Uncontrolled (ocean)
+7,2013-12-03,CCAFS LC-40,SES-8,SES,Success,No attempt
+8,2014-01-06,CCAFS LC-40,Thaicom 6,Thaicom,Success,No attempt
+9,2014-04-18,CCAFS LC-40,SpaceX CRS-3,NASA (CRS),Success,Controlled (ocean)
+10,2014-07-14,CCAFS LC-40,OG2 Mission 1  6 Orbcomm-OG2 satellites,Orbcomm,Success,Controlled (ocean)
+11,2014-08-05,CCAFS LC-40,AsiaSat 8,AsiaSat,Success,No attempt
+12,2014-09-07,CCAFS LC-40,AsiaSat 6,AsiaSat,Success,No attempt
+13,2014-09-21,CCAFS LC-40,SpaceX CRS-4,NASA (CRS),Success,Uncontrolled (ocean)
+14,2015-01-10,CCAFS LC-40,SpaceX CRS-5,NASA (CRS),Success,Failure  (drone ship)
+15,2015-02-11,CCAFS LC-40,DSCOVR,U.S. Air Force NASA NOAA,Success,Controlled (ocean)
+16,2015-03-02,CCAFS LC-40,ABS-3A Eutelsat 115 West B,ABS Eutelsat,Success,No attempt
+17,2015-04-14,CCAFS LC-40,SpaceX CRS-6,NASA (CRS),Success,Failure  (drone ship)
+18,2015-04-27,CCAFS LC-40,TürkmenÄlem 52°E / MonacoSAT,Turkmenistan National Space Agency,Success,No attempt
+19,2015-06-28,CCAFS LC-40,SpaceX CRS-7,NASA (CRS),Failure  (in flight),Precluded  (drone ship)
+20,2015-12-22,CCAFS LC-40,OG2 Mission 2   11 Orbcomm-OG2 satellites,Orbcomm,Success,Success  (ground pad)
+21,2016-01-17,VAFB SLC-4E,Jason-3,NASA (LSP) NOAA CNES,Success,Failure (drone ship)
+22,2016-03-04,CCAFS LC-40,SES-9,SES,Success,Failure (drone ship)
+23,2016-04-08,CCAFS LC-40,SpaceX CRS-8,NASA (CRS),Success,Success  (drone ship)
+24,2016-05-06,CCAFS LC-40,JCSAT-14,SKY Perfect JSAT Group,Success,Success (drone ship)
+25,2016-05-27,CCAFS LC-40,Thaicom 8,Thaicom,Success,Success  (drone ship)
+26,2016-06-15,CCAFS LC-40,ABS-2A Eutelsat 117 West B,ABS Eutelsat,Success,Failure  (drone ship)
+27,2016-07-18,CCAFS LC-40,SpaceX CRS-9,NASA (CRS),Success,Success (ground pad)
+28,2016-08-14,CCAFS LC-40,JCSAT-16,SKY Perfect JSAT Group,Success,Success (drone ship)
+29,2017-01-14,VAFB SLC-4E,Iridium NEXT 1,Iridium Communications,Success,Success  (drone ship)
+30,2017-02-19,KSC LC-39A,SpaceX CRS-10,NASA (CRS),Success,Success (ground pad)
+31,2017-03-16,KSC LC-39A,EchoStar 23,EchoStar,Success,No attempt
+32,2017-03-30,KSC LC-39A,SES-10,SES,Success,Success (drone ship)
+33,2017-05-01,KSC LC-39A,NROL-76,NRO,Success,Success (ground pad)
+34,2017-05-15,KSC LC-39A,Inmarsat-5 F4,Inmarsat,Success,No attempt
+35,2017-06-03,KSC LC-39A,SpaceX CRS-11,NASA (CRS),Success,Success (ground pad)
+36,2017-06-23,KSC LC-39A,BulgariaSat-1,Bulsatcom,Success,Success (drone ship)
+37,2017-06-25,VAFB SLC-4E,Iridium NEXT 2,Iridium Communications,Success,Success (drone ship)
+38,2017-07-05,KSC LC-39A,Intelsat 35e,Intelsat,Success,No attempt
+39,2017-08-14,KSC LC-39A,SpaceX CRS-12,NASA (CRS),Success,Success (ground pad)
+40,2017-08-24,VAFB SLC-4E,Formosat-5,NSPO,Success,Success (drone ship)
+41,2017-09-07,KSC LC-39A,Boeing X-37B OTV-5,U.S. Air Force,Success,Success (ground pad)
+42,2017-10-09,VAFB SLC-4E,Iridium NEXT 3,Iridium Communications,Success,Success (drone ship)
+43,2017-10-11,KSC LC-39A,SES-11 / EchoStar 105,SES EchoStar,Success,Success (drone ship)
+44,2017-10-30,KSC LC-39A,Koreasat 5A,KT Corporation,Success,Success (drone ship)
+45,2017-12-15,CCAFS SLC-40,SpaceX CRS-13,NASA (CRS),Success,Success (ground pad)
+46,2017-12-23,VAFB SLC-4E,Iridium NEXT 4,Iridium Communications,Success,Controlled (ocean)
+47,2018-01-08,CCAFS SLC-40,Zuma,Northrop Grumman,Success  (payload status unclear),Success (ground pad)
+48,2018-01-31,CCAFS SLC-40,GovSat-1 / SES-16,SES,Success,Controlled (ocean)
+FH 1,2018-02-06,KSC LC-39A,Elon Musk's Tesla Roadster,SpaceX,Success,"Success (ground pad), Failure (drone ship), Success (ground pad)"
+49,2018-02-22,VAFB SLC-4E,Paz  Tintin A & B,Hisdesat exactEarth SpaceX,Success,No attempt
+50,2018-03-06,CCAFS SLC-40,Hispasat 30W-6  PODSat,Hispasat  NovaWurks,Success,No attempt
+51,2018-03-30,VAFB SLC-4E,Iridium NEXT 5,Iridium Communications,Success,No attempt
+52,2018-04-02,CCAFS SLC-40,SpaceX CRS-14,NASA (CRS),Success,No attempt
+53,2018-04-18,CCAFS SLC-40,Transiting Exoplanet Survey Satellite (TESS),NASA (LSP),Success,Success (drone ship)
+54,2018-05-11,KSC LC-39A,Bangabandhu-1,Thales-Alenia/BTRC,Success,Success (drone ship)
+55,2018-05-22,VAFB SLC-4E,"Iridium NEXT 6   GRACE-FO 1, 2",Iridium Communications GFZ • NASA,Success,No attempt
+56,2018-06-04,CCAFS SLC-40,SES-12,SES,Success,No attempt
